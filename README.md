@@ -8,7 +8,7 @@ The aim of this talk/demo is to present the pyBumpHunter package and its feature
 
 Simply click on the badge.
 
-### Local instalation
+### Local installation
 
 * Clone the repository.
 * In a clean environement, install the pedendencies
