@@ -1,6 +1,7 @@
 # pyBumpHunter : A model agnostic bump hunting tool in python
 
-[![DOI](https://zenodo.org/badge/382276712.svg)](https://zenodo.org/badge/latestdoi/382276712)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5069831.svg)](https://doi.org/10.5281/zenodo.5069831)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/zenodo/10.5281/zenodo.5069831/?filepath=talk.ipynb)
 
 The aim of this talk/demo is to present the pyBumpHunter package and its features. 
 
@@ -9,6 +10,7 @@ The aim of this talk/demo is to present the pyBumpHunter package and its feature
 ### With binder
 
 Simply click on the badge.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/zenodo/10.5281/zenodo.5069831/?filepath=talk.ipynb)
 
 ### Local installation
 
