@@ -1,5 +1,7 @@
 # pyBumpHunter : A model agnostic bump hunting tool in python
 
+[![DOI](https://zenodo.org/badge/382276712.svg)](https://zenodo.org/badge/latestdoi/382276712)
+
 The aim of this talk/demo is to present the pyBumpHunter package and its features. 
 
 ## How to run the notebook
